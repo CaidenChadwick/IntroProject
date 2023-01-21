@@ -1,8 +1,8 @@
 /**
  *  index.ts
- *  Project: First Exercise
+ *  Project: IntroProject
  * 
- *  Author: Your Name
+ *  Author: Caiden Chadwick
  *  Created on: Jan 19, 2023
  */
 
